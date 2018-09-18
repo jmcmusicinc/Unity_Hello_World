@@ -1,2 +1,2 @@
 # Unity_Hello_World
-A demonstration of the Unity and Github workflow
+This repository is utilized as a centrol area for Berklee students learning the Unity game engine to ask questions and find answers. The Wiki efforts are comunity driven and constructive input is welcomed.
